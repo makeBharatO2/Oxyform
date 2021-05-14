@@ -1,5 +1,5 @@
 # Oxyform
-This is the source repository for design & build docs for the indegenous open source concentrator by Bharat O2 team. For more information on this initiative, pls visit [Bharath O2 website.](https://www.notion.so/Bharat-02-Oxyform-c85b40149b044214aaf8b3298170dbe9)
+This is the source repository for design & build docs for the indegenous open source concentrator by Bharat O2 team. For more information on this initiative, pls visit [Bharath O2 website.](https://www.bharato2.org)
 
 **Salient features:**
 
@@ -23,20 +23,23 @@ Produce a design that enables makers & manufacturers in far corners of India to 
 
 **How**
 
- - Understand the [design here](https://www.notion.so/Genesis-Build-f406cf4217994b059c0a0edbeb139fb5) or follow the documentation.
+ - Understand the [design here](https://www.bharato2.org) or follow the documentation.
  - Pay attention to the rotary **[CAM Valve](https://youtu.be/7uSr5xrOVtQ)**, which is the key innovation here.
- - Source the parts - [BOM](https://www.notion.so/ff45cc9090554a279fbb2f66bb04dd5d?v=d6aa3f73a6bf47c7845783425e2e9eb4)
+ - Source the parts - [BOM](https://www.bharato2.org)
  - Build the prototype, iterate & publish your own designs.
 
 
 **Building instructions**
- - [Link to detailed instructions](https://www.notion.so/Building-Instruction-55aa131cf75a4320baa3850167e639b1)
+ - [Link to detailed instructions](https://www.bharato2.org)
  
 
 **Videos**
 
 - [Oxyform build & make](https://youtu.be/x6E5DD5uLDk)
 - [CAM Valve with Zeolite Sieve Bed](https://youtu.be/7uSr5xrOVtQ)
+
+**Contributors**
+- [People behind this](https://bharato2.org/027c0bd950fa4ede9a0f301111af26c4)
 
 
 
