@@ -1,5 +1,5 @@
 # Oxyform
-This is the source repository for design & build docs for the indegenous open source concentrator by Bharat O2 team. For more information on this initiative, pls visit [Bharath O2 website.](https://www.bharato2.org)
+This is the source repository for design & build docs for the indegenous open source concentrator by Bharat O2 team. For more information on this initiative, pls visit [Bharat O2 website.](https://www.bharato2.org)
 
 **Salient features:**
 
