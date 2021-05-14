@@ -30,8 +30,8 @@ Produce a design that enables makers & manufacturers in far corners of India to 
 
 
 **Building instructions**
- - 1
- - 2
+ - [Link to detailed instructions](https://www.notion.so/Building-Instruction-55aa131cf75a4320baa3850167e639b1)
+ 
 
 **Videos**
 
